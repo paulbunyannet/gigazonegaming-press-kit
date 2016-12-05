@@ -23,9 +23,9 @@ There are thee background types, light, dark, and wild. They are seamless backgr
 
 ![Gigazone Gaming Atom](https://github.com/paulbunyannet/gigazonegaming-press-kit/blob/master/gigazone-atom/gigazone-gaming-championship-atom.png)
 
-### [gigazone-gaming hampionship](https://github.com/paulbunyannet/gigazonegaming-press-kit/tree/master/gigazone-gaming-championship)
+### [gigazone-gaming Championship](https://github.com/paulbunyannet/gigazonegaming-press-kit/tree/master/gigazone-gaming-championship)
 
-This mark is used in reference to the Gigazone Gaming Chamionship gaming tournaments. There are two differet styles: regular and wide, and three different types: one color, two color, and three color. Choose the type that seems the most appropriate.
+This mark is used in reference to the Gigazone Gaming Championship gaming tournaments. There are two different styles: regular and wide, and three different types: one color, two color, and three color. Choose the type that seems the most appropriate.
 
 #### Regular version:
 ![Gigazone Gaming Championship](https://github.com/paulbunyannet/gigazonegaming-press-kit/blob/master/gigazone-gaming-championship/three-color/gigazone-gaming-championship-X-on-light.png)
