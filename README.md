@@ -41,12 +41,6 @@ This mark is used in reference to the Gigazone Gaming project. There are three d
 #### Regular version:
 ![Gigazone Gaming](https://github.com/paulbunyannet/gigazonegaming-press-kit/blob/master/gigazone-gaming/three-color/gigazone-gaming-on-light.png)
 
-### Gigazone Gaming After Midnight
-![Gigazone Gaming After Midnight](https://github.com/paulbunyannet/gigazonegaming-press-kit/blob/master/gigazone-gaming-after-midnight/gz-after-midnight-neon.png)
-
-This mark is used on content that is for a mature audience. An example would be videos with gore or an fps with realistic fight.
-
-
 
 
 
