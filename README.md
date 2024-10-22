@@ -39,15 +39,18 @@ Hashtag initials for the GigaZone Gaming Championship. There are two types: one 
 
 ---
 
-### [gigazone-gaming Championship](https://github.com/paulbunyannet/gigazonegaming-press-kit/tree/master/gigazone-gaming-championship)
+### [gigazone-gaming-championship](https://github.com/paulbunyannet/gigazonegaming-press-kit/tree/master/gigazone-gaming-championship)
 
-This mark is for the Gigazone Gaming Championship gaming tournament. There are two different styles, regular and wide, and three different types: one color, two colors, and three colors. Choose the type that seems the most appropriate.
+This mark is for the Gigazone Gaming Championship gaming tournament. There are three different styles: regular, wide, and stacked, and three different types: one color, two colors, and three colors. Choose the type that seems the most appropriate.
 
 #### Regular version:
 ![Gigazone Gaming Championship](https://github.com/paulbunyannet/gigazonegaming-press-kit/blob/master/gigazone-gaming-championship/three-color/gigazone-gaming-championship-X-on-light.png)
 
 #### Wide version:
 ![Gigazone Gaming Championship wide version](https://github.com/paulbunyannet/gigazonegaming-press-kit/blob/master/gigazone-gaming-championship/three-color/gigazone-gaming-championship-X-wide-on-light.png)
+
+#### [Stacked version:](https://github.com/paulbunyannet/gigazonegaming-press-kit/tree/master/gigazone-gaming-championship-stacked)
+![Gigazone Gaming Championship stacked](https://github.com/paulbunyannet/gigazonegaming-press-kit/blob/master/gigazone-gaming-championship-stacked/three-color/gigazone-gaming-championship-stacked-on-light.png)
 
 ---
 
